@@ -16,4 +16,5 @@ nav>ul>li{
 }
 nav li>a{
     text-decoration: none;
+    margin-top: 2px;
 }
